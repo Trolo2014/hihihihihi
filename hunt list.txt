@@ -1,2 +1,1 @@
-
-print("hi")
+_G.Remote = true
